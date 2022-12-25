@@ -5,7 +5,7 @@ puts "何回計算を繰り返しますか？"
 times = gets.to_i
 
 i = 1
-while i <= times+1 do
+while i <= times+1 do #解答 whilw i <= times do
   if i == times+1 #解答 不要
     puts "計算を終了します" #解答 不要
     break #解答 不要
