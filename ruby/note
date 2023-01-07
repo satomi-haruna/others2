@@ -90,6 +90,7 @@ length
 reverse
 文字列が逆さから表示される
 include?
+含む
 methods
 
 
